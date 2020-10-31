@@ -1,0 +1,165 @@
+build vocabulary and corpus
+True
+build co-occurence matrix
+        100     access
+        200     aggravation
+        300     anyone
+        400     assert
+        500     babysitting
+        600     bet
+        700     breaks
+        800     cards
+        900     child
+        1000    coldi
+        1100    confide
+        1200    corrections
+        1300    cuts
+        1400    demote
+        1500    directing
+        1600    double
+        1700    efficiently
+        1800    envious
+        1900    expectation
+        2000    fear
+        2100    folding
+        2200    funi
+        2300    grantee
+        2400    harmful
+        2500    hit
+        2600    impact
+        2700    inside
+        2800    iti
+        2900    knowledgewhen
+        3000    lies
+        3100    majority
+        3200    membersin
+        3300    mood
+        3400    nervousness
+        3500    occurredan
+        3600    othersi
+        3700    past
+        3800    physicians
+        3900    possible
+        4000    privileges
+        4100    q
+        4200    recommended
+        4300    reprimand
+        4400    rightstudent
+        4500    scenario
+        4600    set
+        4700    skeptical
+        4800    speak
+        4900    stress
+        5000    superior
+        5100    teamrecently
+        5200    theyll
+        5300    track
+        5400    umpired
+        5500    varsity
+        5600    wasnt
+        5700    wiser
+        5800    yesterday
+train model
+Iteration = 0, Cost = 16510.601107906525.
+Iteration = 1, Cost = 29635.482902517313.
+Iteration = 2, Cost = 41524.95500670153.
+Iteration = 3, Cost = 52651.44352578443.
+Iteration = 4, Cost = 63228.21665223155.
+Iteration = 5, Cost = 73375.63489779911.
+Iteration = 6, Cost = 83170.81605569625.
+Iteration = 7, Cost = 92667.35442311187.
+Iteration = 8, Cost = 101904.60688839437.
+Iteration = 9, Cost = 110912.6215711371.
+Iteration = 10, Cost = 119714.99992358142.
+Iteration = 11, Cost = 128330.67934999014.
+Iteration = 12, Cost = 136775.10700942026.
+Iteration = 13, Cost = 145061.04820601462.
+Iteration = 14, Cost = 153199.1639560079.
+Iteration = 15, Cost = 161198.4364465188.
+Iteration = 16, Cost = 169066.49065703872.
+Iteration = 17, Cost = 176809.84295619268.
+Iteration = 18, Cost = 184434.09702040502.
+Iteration = 19, Cost = 191944.10089911762.
+Iteration = 20, Cost = 199344.07484751212.
+Iteration = 21, Cost = 206637.71675717874.
+Iteration = 22, Cost = 213828.2901147256.
+Iteration = 23, Cost = 220918.69809677804.
+Iteration = 24, Cost = 227911.5464728788.
+Iteration = 25, Cost = 234809.19731517474.
+Iteration = 26, Cost = 241613.8150248853.
+Iteration = 27, Cost = 248327.40582912863.
+Iteration = 28, Cost = 254951.85163977448.
+Iteration = 29, Cost = 261488.93897549884.
+Iteration = 30, Cost = 267940.383509622.
+Iteration = 31, Cost = 274307.8507065203.
+Iteration = 32, Cost = 280592.9729400869.
+Iteration = 33, Cost = 286797.3634381017.
+Iteration = 34, Cost = 292922.6273636652.
+Iteration = 35, Cost = 298970.37032263627.
+Iteration = 36, Cost = 304942.2045703766.
+Iteration = 37, Cost = 310839.75318042905.
+Iteration = 38, Cost = 316664.652428495.
+Iteration = 39, Cost = 322418.5526362527.
+Iteration = 40, Cost = 328103.11771064205.
+Iteration = 41, Cost = 333720.0236025788.
+Iteration = 42, Cost = 339270.95589692955.
+Iteration = 43, Cost = 344757.606730889.
+Iteration = 44, Cost = 350181.6712217279.
+Iteration = 45, Cost = 355544.8435673061.
+Iteration = 46, Cost = 360848.8129644849.
+Iteration = 47, Cost = 366095.2594714627.
+Iteration = 48, Cost = 371285.8499216428.
+Iteration = 49, Cost = 376422.233977739.
+Iteration = 50, Cost = 381506.040397661.
+Iteration = 51, Cost = 386538.8735673295.
+Iteration = 52, Cost = 391522.31034045585.
+Iteration = 53, Cost = 396457.89721204905.
+Iteration = 54, Cost = 401347.14784060925.
+Iteration = 55, Cost = 406191.5409242401.
+Iteration = 56, Cost = 410992.5184270433.
+Iteration = 57, Cost = 415751.48414582165.
+Iteration = 58, Cost = 420469.8026012403.
+Iteration = 59, Cost = 425148.79823451745.
+Iteration = 60, Cost = 429789.7548866949.
+Iteration = 61, Cost = 434393.9155366735.
+Iteration = 62, Cost = 438962.48227308795.
+Iteration = 63, Cost = 443496.6164743922.
+Iteration = 64, Cost = 447997.43917262356.
+Iteration = 65, Cost = 452466.0315765999.
+Iteration = 66, Cost = 456903.4357318307.
+Iteration = 67, Cost = 461310.6552955521.
+Iteration = 68, Cost = 465688.6564071459.
+Iteration = 69, Cost = 470038.3686357977.
+Iteration = 70, Cost = 474360.6859886133.
+Iteration = 71, Cost = 478656.4679648104.
+Iteration = 72, Cost = 482926.5406424675.
+Iteration = 73, Cost = 487171.69778666965.
+Iteration = 74, Cost = 491392.70196847495.
+Iteration = 75, Cost = 495590.2856861784.
+Iteration = 76, Cost = 499765.1524818178.
+Iteration = 77, Cost = 503917.9780457824.
+Iteration = 78, Cost = 508049.4113051894.
+Iteration = 79, Cost = 512160.0754909724.
+Iteration = 80, Cost = 516250.56918059796.
+Iteration = 81, Cost = 520321.46731351427.
+Iteration = 82, Cost = 524373.3221772652.
+Iteration = 83, Cost = 528406.6643625996.
+Iteration = 84, Cost = 532422.0036866381.
+Iteration = 85, Cost = 536419.8300831943.
+Iteration = 86, Cost = 540400.6144603358.
+Iteration = 87, Cost = 544364.8095245162.
+Iteration = 88, Cost = 548312.8505721034.
+Iteration = 89, Cost = 552245.1562484831.
+Iteration = 90, Cost = 556162.1292751158.
+Iteration = 91, Cost = 560064.1571455493.
+Iteration = 92, Cost = 563951.6127910742.
+Iteration = 93, Cost = 567824.8552168254.
+Iteration = 94, Cost = 571684.2301095106.
+Iteration = 95, Cost = 575530.0704174833.
+Iteration = 96, Cost = 579362.6969042622.
+Iteration = 97, Cost = 583182.4186767204.
+Iteration = 98, Cost = 586989.5336884599.
+Iteration = 99, Cost = 590784.3292202879.
+
+
+Save the word vector to csv.
